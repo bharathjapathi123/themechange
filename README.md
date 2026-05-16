@@ -38,5 +38,3 @@ This is a simple and interactive Theme Switcher web application developed using 
 - Save theme preference using Local Storage
 - Add more custom themes
 
-## Author
-Bharath Japathi
